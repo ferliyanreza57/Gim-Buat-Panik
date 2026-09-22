@@ -1,0 +1,27 @@
+GAME BENAR–SALAH KAMERA — VERSUS + FULLSCREEN + SOUND
+
+FITUR:
+- Solo dan Versus 2 Player.
+- Split screen pada mode Versus.
+- Deteksi pose tubuh di belakang layar, maksimum 2 pemain.
+- Tangan kanan = BENAR.
+- Tangan kiri = SALAH.
+- Sound BENAR dan SALAH menggunakan Web Audio (tidak perlu file audio).
+- Confetti dan karakter ekspresif.
+- Tombol pilih + tombol Cek Jawaban.
+- Fullscreen aplikasi dan fullscreen per panel pemain.
+- Leaderboard akhir.
+- Editor soal untuk semua jenjang dan mata pelajaran.
+- Ekspor / impor JSON.
+
+AKSES KAMERA:
+Browser modern TIDAK mengizinkan website melewati izin kamera pertama kali.
+Solusi paling praktis untuk papan interaktif:
+1. Hosting aplikasi dengan HTTPS.
+2. Buka situs di Chrome/Edge.
+3. Klik “Mulai + Kamera + Fullscreen”.
+4. Saat pertama kali, pilih Allow/Izinkan kamera.
+5. Jika perangkat/browser menyimpan izin untuk situs itu, sesi berikutnya dapat langsung memakai kamera.
+
+NETLIFY:
+Unggah seluruh folder ini ke Netlify atau hosting HTTPS lain.
